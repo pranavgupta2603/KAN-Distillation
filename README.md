@@ -2,7 +2,7 @@
 # Simple Knowledge Distillation using KANs on MNIST Handwritten Digits
 This project implements the KAN architecture, which utilizes learnable activation functions on the edges of the network with parametrized spline functions, replacing traditional fixed activation functions and linear weights. This approach offers a promising alternative to Multi-Layer Perceptrons (MLPs), with potential applications in data fitting, Partial Differential Equations (PDEs) solving, and more.
 
-The KAN code is referenced from the (efficient_kan)["https://github.com/Blealtan/efficient-kan"] repository.
+The KAN code is referenced from the [efficient_kan]("https://github.com/Blealtan/efficient-kan") repository.
 
 Get started with KAN-Distillation by following these steps:
 
