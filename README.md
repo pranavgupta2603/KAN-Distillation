@@ -14,13 +14,13 @@ student_model = KAN([28*28, 10])
 
 The KAN code is referenced from the [efficient_kan](https://github.com/Blealtan/efficient-kan) repository.
 
-Get started with KAN-Distillation by following these steps:
+## Get started with KAN-Distillation by following these steps:
 
 1. **Clone the Repository:**
     ```
     git clone https://github.com/pranavgupta2603/KAN-Distillation
     ```
-2. **Enter the directory**
+2. **Enter the directory:**
     ```
     cd KAN-Distillation
     ```
@@ -42,10 +42,6 @@ Accuracy of the NOT distilled student model on the test set: 93.65%
 Accuracy of the DISTILLED student model on the test set: 93.75%
 Accuracy of the teacher model on the test set: 97.23%
 ```
-
-## Support
-
-For support, open an issue through the GitHub issue tracker.
 
 ## License
 
