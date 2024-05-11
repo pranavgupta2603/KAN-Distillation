@@ -22,7 +22,7 @@ Get started with KAN-Distillation by following these steps:
 ## Documentation
 
 - `distill.ipynb`: Contains the code to train the student model
-- `mnist.py`: An extension to the code from (efficient_kan)["https://github.com/Blealtan/efficient-kan"] to train a non-distilled model
+- `mnist.py`: An extension to the code from [efficient_kan](https://github.com/Blealtan/efficient-kan) to train a non-distilled model
 - `requirements.txt`: Contains all the necessary Python packages.
 
 ## Support
